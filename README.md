@@ -1,6 +1,6 @@
 This repository was originated from a lecture on vector biases from the course Introduction to Machine Learning for Natural Language Processing, given by Professor Aurelie Georgette Geraldine Herbelot at University of Trento
 
-The base code and datasets were provided at the lecture. Only the files experiment.py and prepare_dataset.py were authored by me, based on the original code but altered to include specific configurations for the practical part of the final project of the course.
+The base code and datasets were provided at the lecture and is available at repository https://github.com/ml-for-nlp/vector-biases. Only the files experiment.py and prepare_dataset.py were authored by me, based on the original code but altered to include specific configurations for the practical part of the final project of the course.
 
 In this experiment, a cosine similarity is performed to identify gender biases related to the words sport/esporte and prostitution/prostituição on two word vector datasets, one for English and one for Portuguese, with the additional goal of comparing the degree of each bias on each language. Further detail, along with results and discussions can be found at the report file.
 
